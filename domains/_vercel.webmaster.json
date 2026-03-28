@@ -4,6 +4,6 @@
         "email": "kende8638@gmail.com"
     },
     "records": {
-        "TXT": "vc-domain-verify=webmaster.is-a.dev,32aceed688ab439c7d72"
+        "TXT": ["vc-domain-verify=webmaster.is-a.dev,32aceed688ab439c7d72"]
     }
 }

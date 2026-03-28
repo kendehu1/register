@@ -1,6 +1,7 @@
 {
     "owner": {
-        "username": "kendehu1"
+        "username": "kendehu1", 
+        "email": "kende8638@gmail.com"
     },
     "records": {
         "TXT": "vc-domain-verify=webmaster.is-a.dev,32aceed688ab439c7d72"
